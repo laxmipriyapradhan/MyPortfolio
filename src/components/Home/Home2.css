@@ -1,0 +1,13 @@
+/* ... other styles you may already have ... */
+
+/* Mobile-specific styles */
+@media only screen and (max-width: 768px) {
+  .myAvtar img {
+   margin-bottom: 100%;  /* Make sure the image fits within the given dimensions without cropping */
+  }
+  
+    .myAvtar {
+      margin-top: 120px;
+    }
+  }
+  
