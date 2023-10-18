@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-// import myImg from "../../Assets/avatar.svg";
+import './Home2.css'
 import Tilt from "react-parallax-tilt";
 
 import Profileimage from "../../Assets/Profileimage.png"
@@ -51,7 +51,7 @@ function Home2() {
             </p>
           </Col>
           <Col Miss={4} className="myAvtar">
-            <Tilt style={{marginTop: "280px"}}>
+            <Tilt style={{marginTop: "20px" }}>
               <img src={Profileimage} className="img-fluid" alt="avatar" />
               {/* <img src={Profileimage} className={`img-fluid ${styles.imgFluid}`} alt="avatar" /> */}
             </Tilt>
