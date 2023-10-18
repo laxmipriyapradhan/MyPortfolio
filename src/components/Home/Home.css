@@ -3,6 +3,7 @@
         flex-direction: column; 
         overflow-x: hidden;
     }
- 
-  
+    .home-content .row .img-fluid {
+        margin-left: 10% !important; /* using !important to ensure it overrides any other conflicting styles */
+    }
 }
