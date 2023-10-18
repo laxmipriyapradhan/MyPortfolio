@@ -6,12 +6,14 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
+import './About.css'
 
 function About() {
   return (
     <Container fluid className="about-section">
       <Particle />
       <Container>
+        <div className="about-sec">
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col
             Miss={7}
@@ -34,9 +36,11 @@ function About() {
             <img src={laptopImg} alt="about" className="img-fluid" />
           </Col>
         </Row>
+        </div>
         <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
         </h1>
+        
 
         <Techstack />
 

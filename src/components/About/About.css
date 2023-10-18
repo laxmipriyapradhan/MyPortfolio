@@ -1,0 +1,12 @@
+@media only screen and (max-width: 768px) {
+    /* Swap positions only for the specific row with Aboutcard and laptopImg */
+    .about-sec .row{
+        flex-direction: column;
+    }
+    .about-img img {
+        width: 80%; 
+        margin: 0 auto; /* Center the image horizontally */
+    }
+    /* Ensure the content in the mobile view is centered */
+  
+}

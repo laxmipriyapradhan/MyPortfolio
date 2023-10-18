@@ -1,0 +1,8 @@
+@media only screen and (max-width: 768px) {
+    .home-content .row {
+        flex-direction: column; 
+        overflow-x: hidden;
+    }
+ 
+  
+}
