@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://laxmipriyapradhan.github.io/my-portfolio",
+  "homepage": "https://laxmipriyapradhan.github.io/MyPortfolio",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
