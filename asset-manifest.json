@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.cd0b2f48.css",
+    "main.js": "/MyPortfolio/static/js/main.2d598f12.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/leaf.png": "/MyPortfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/MyPortfolio/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/MyPortfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/MyPortfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Profileimage.png": "/MyPortfolio/static/media/Profileimage.021d5bea8430fe26140e.png",
+    "static/media/blog.png": "/MyPortfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/MyPortfolio/static/media/home-main.332158e472d9571dcf4e9b4113651f1c.svg",
+    "static/media/about.png": "/MyPortfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/MyPortfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/Laxmi_React_2022.pdf": "/MyPortfolio/static/media/Laxmi_React_2022.b7d5523414daa0e92de9.pdf",
+    "static/media/home-bg.jpg": "/MyPortfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/MyPortfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.cd0b2f48.css.map": "/MyPortfolio/static/css/main.cd0b2f48.css.map",
+    "main.2d598f12.js.map": "/MyPortfolio/static/js/main.2d598f12.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MyPortfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0b2f48.css",
+    "static/js/main.2d598f12.js"
+  ]
+}
