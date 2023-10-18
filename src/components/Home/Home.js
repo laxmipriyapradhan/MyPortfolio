@@ -4,7 +4,7 @@ import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import PortfolioImg from '../../Assets/PortfolioImg.png'
+// import PortfolioImg from '../../Assets/PortfolioImg.png'
 
 function Home() {
   return (
@@ -34,7 +34,7 @@ function Home() {
 
             <Col Miss={5} style={{ paddingBottom: 20 }}>
               <img
-                src={PortfolioImg}
+                src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
                 style={{marginTop: "100px",  maxHeight: "100%"}}
